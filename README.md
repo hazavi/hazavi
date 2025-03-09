@@ -8,9 +8,6 @@
 I enjoy coding, building web apps and exploring new technologies.
 - 💻 Fullstack Deveolper
 - 📍 Copenhagen, Denmark
-
-
-
 ---
 
 <div align="center">
