@@ -1,4 +1,7 @@
-# Hazel Avila
+<div align="center">
+<h1 style="margin: 0;">Hazel Avila</h1>
+</div>
+
 ## 📌 About Me
 
 I enjoy coding, building web apps and exploring new technologies.
@@ -28,7 +31,7 @@ I enjoy coding, building web apps and exploring new technologies.
 </div>
 
 
-<div align="center">
+<div align="center" >
     <table style="border-collapse: collapse; border: none;">
           <tr>
       <th colspan="4">Frontend</th>
