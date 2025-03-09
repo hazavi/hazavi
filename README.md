@@ -27,6 +27,7 @@
 </div>
 
 ---
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hazavi&show_icons=true&theme=radical" width="35%"/>
