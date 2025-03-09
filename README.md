@@ -3,11 +3,6 @@
     <a href="mailto:sanchaiavila@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </div>
 
-## 📌 About Me
-
-I enjoy coding, building web apps and exploring new technologies.
-- 💻 Fullstack Deveolper
-- 📍 Copenhagen, Denmark
 ---
 
 <div align="center">
