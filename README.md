@@ -26,8 +26,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazavi&show_icons=true&theme=radical" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hazavi&show_icons=true&hide_border=true&bg_color=00000000&theme=transparent&title_color=30AADD&icon_color=FF9800&text_color=ADB5BD&hide_title=true" width="40%"/>
 </p>
+
+
+
 
 
 
