@@ -2,7 +2,7 @@
 
 # Hazel Avila
 
-I enjoy coding, building web apps and making games.
+I like coding, kinda.
 
 </div>
 
