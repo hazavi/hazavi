@@ -1,7 +1,5 @@
 <div align="center">
-
-# Hazel Avila
-
+  
 I like coding, kinda.
 
 </div>
