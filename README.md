@@ -1,13 +1,12 @@
 <div align="center">
   
-I like coding, kinda.
+I code, kinda...
 
 </div>
 
 
 <div align="center">
 
-### Tech Stacks
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" title="Next.js"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular"/> &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" title="React & React Native"/> &nbsp;&nbsp;
