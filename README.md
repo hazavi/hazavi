@@ -1,3 +1,5 @@
+<!-- 
+
 <div align="center">
   <p>I code, kinda...</p>
 
@@ -8,3 +10,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="32" title="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="32" title="Godot"/>
 </div>
+
+-->
