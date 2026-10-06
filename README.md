@@ -18,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/hazavi/PaperTrade/master/src/frontend/papertrade-web/public/favicon.svg" width="36" alt="" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/hazavi/PaperTrade/master/src/frontend/papertrade-web/public/logo.png" width="36" alt="" /></td>
     <td>
       <a href="https://github.com/hazavi/PaperTrade"><b>PaperTrade</b></a><br />
       <sub>Virtual trading platform.</sub><br />
@@ -34,7 +34,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/hazavi/Konvrt/main/public/konvrt.svg" width="36" alt="" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/hazavi/Konvrt/main/public/konvrt.png" width="36" alt="" /></td>
     <td>
       <a href="https://github.com/hazavi/Konvrt"><b>Konvrt</b></a><br />
       <sub>Convert, compress, and download video, audio, images, and PDFs. Runs on your computer.</sub><br />
