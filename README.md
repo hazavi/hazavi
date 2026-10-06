@@ -38,7 +38,7 @@
     <td>
       <a href="https://github.com/hazavi/Konvrt"><b>Konvrt</b></a><br />
       <sub>Convert, compress, and download video, audio, images, and PDFs. Runs on your computer.</sub><br />
-      <sub><img src="https://api.iconify.design/lucide/calendar.svg?color=%236366f1" width="12" alt="" /> Feb 2026 &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide/download.svg?color=%236366f1" width="12" alt="" /> <a href="https://github.com/hazavi/Konvrt/releases/latest">Download</a></sub>
+      <sub><img src="https://api.iconify.design/lucide/calendar.svg?color=%236366f1" width="12" alt="" /> Feb 2026 &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide/link.svg?color=%236366f1" width="12" alt="" /> <a href="https://hazavi.github.io/IPTVio/">Demo</a> &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide/download.svg?color=%236366f1" width="12" alt="" /> <a href="https://github.com/hazavi/Konvrt/releases/latest">Download</a></sub>
     </td>
   </tr>
   <tr>
