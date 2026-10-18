@@ -52,15 +52,6 @@
     </td>
   </tr>
   
-   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/hazavi/hanstream/master/public/favicon.ico" width="36" alt="" /></td>
-    <td>
-      <a href="https://github.com/hazavi/hanstream"><b>Hanstream</b></a><br />
-      <sub>Asian streaming app [browser & desktop]</sub><br />
-      <sub><img src="https://api.iconify.design/lucide/calendar.svg?color=%236366f1" width="12" alt="" /> Sep 2025 </sub>
-    </td>
-  </tr>
-  
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/hazavi/Cinema/master/public/assets/bioma-logo.png" width="36" alt="" /></td>
     <td>
