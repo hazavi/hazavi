@@ -18,14 +18,7 @@
       <sub><img src="https://api.iconify.design/lucide/calendar.svg?color=%236366f1" width="12" alt="" /> Oct 2026 &nbsp;·&nbsp; <img src="https://api.iconify.design/lucide/link.svg?color=%236366f1" width="12" alt="" /> <a href="https://hazavi.github.io/IPTVio/">Demo</a></sub>
     </td>
   </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/hazavi/PaperTrade/master/src/frontend/papertrade-web/public/logo.png" width="36" alt="" /></td>
-    <td>
-      <a href="https://github.com/hazavi/PaperTrade"><b>PaperTrade</b></a><br />
-      <sub>Virtual trading platform.</sub><br />
-      <sub><img src="https://api.iconify.design/lucide/calendar.svg?color=%236366f1" width="12" alt="" /> Sep 2026</sub>
-    </td>
-  </tr>
+
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/hazavi/droppr/main/extension/icons/droppr-128.png" width="36" alt="" /></td>
     <td>
@@ -49,6 +42,15 @@
       <a href="https://github.com/hazavi/aniways"><b>Aniways</b></a><br />
       <sub>Local anime streaming app with a desktop client.</sub><br />
       <sub><img src="https://api.iconify.design/lucide/calendar.svg?color=%236366f1" width="12" alt="" /> Jan 2026</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/hazavi/hanstream/master/public/favicon.ico" width="36" alt="" /></td>
+    <td>
+      <a href="https://github.com/hazavi/hanstream"><b>Hanstream</b></a><br />
+      <sub>Asian streaming app</sub><br />
+      <sub><img src="https://api.iconify.design/lucide/calendar.svg?color=%236366f1" width="12" alt="" /> Sep 2025</sub>
     </td>
   </tr>
   
