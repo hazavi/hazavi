@@ -4,6 +4,15 @@
 
 <table>
   <tr>
+    <td width="52" align="center"><img src="https://github.com/hazavi/AudioFlow/blob/main/public/icon.svg" width="36" alt="" /></td>
+    <td>
+      <a href="https://github.com/hazavi/AudioFlow"><b>AudioFlow</b></a><br />
+      <sub>Automatically route app audio to the right monitor. No more switching sound outputs manually.</sub><br />
+      <sub><img src="https://api.iconify.design/lucide/calendar.svg?color=%236366f1" width="12" alt="" /> Nov 2026 </sub>
+    </td>
+  </tr>
+  
+  <tr>
     <td width="52" align="center"><img src="https://raw.githubusercontent.com/hazavi/IPTVio/main/public/logo.png" width="36" alt="" /></td>
     <td>
       <a href="https://github.com/hazavi/IPTVio"><b>IPTVio</b></a><br />
